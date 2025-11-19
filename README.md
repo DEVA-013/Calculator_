@@ -22,7 +22,7 @@ A clean, lightweight, and fully functional calculator built with pure HTML, CSS,
 - `script.js` → All the logic using safe `eval()` for calculation
 
 ## Screenshot
--Calculator Preview
+- Calculator Preview
 ![alt text](Screenshot.jpeg)
 
 ## License
