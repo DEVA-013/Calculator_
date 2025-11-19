@@ -21,14 +21,8 @@ A clean, lightweight, and fully functional calculator built with pure HTML, CSS,
 - `styles.css` → Simple black & white styling (or your custom style)
 - `script.js` → All the logic using safe `eval()` for calculation
 
-## Keyboard Shortcuts
-- Numbers & operators → Type directly
-- `Enter` or `=` → Calculate result
-- `Backspace` → Delete last character
-- `Escape` or `C` → Clear display
-
 ## Screenshot
-![Calculator Preview](screenshot.png)
+-Calculator Preview
 ![alt text](Screenshot.jpeg)
 
 ## License
